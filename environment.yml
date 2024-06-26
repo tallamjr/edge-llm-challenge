@@ -1,0 +1,15 @@
+name: edge-llm-comp
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - python=3.11.5
+  - pip:
+    - black
+    - neovim
+    - pytest
+    - pytest-cov
+    - pytest-subtests
+    - pep517
+    - twine
+    - -r requirements.txt
