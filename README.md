@@ -1,4 +1,4 @@
-## Edge-Device Large Language Model Competition NeurIPS 2024 Challenge 📱
+### Edge-Device Large Language Model Competition NeurIPS 2024 Challenge 📱
 
 ### Track 1 🗜️
 
